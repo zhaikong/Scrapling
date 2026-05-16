@@ -1,3 +1,6 @@
+import utils.http_session
+import utils.transport
+import utils.session
 from pathlib import Path
 from subprocess import check_output
 from sys import executable as python_executable
